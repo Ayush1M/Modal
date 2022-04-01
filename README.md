@@ -1,2 +1,2 @@
-# title(){return this.options.title||this.options.name}
+# title(){return this.options
 
