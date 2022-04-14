@@ -28,8 +28,7 @@ The project is based on Modal which is a pop up/dialog box which appears when we
 
 ## What I Learned
 * Learned about DOM.
-* Learned about functions.
-* Learned about if/else statements.
+* Learned how to use html properties in JavaScript to display the pop-up.
 
 ## Acknowledgment
    My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
