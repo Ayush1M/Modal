@@ -17,9 +17,6 @@ The project is based on Modal which is a pop up/dialog box which appears when we
 
 ## Screenshot
 
-![](./images/Carouselscreenshot.png)
-
-![](./images/Carousel-Screenshot.png)
 
 ## Technologies I Used
 * Semantic HTML5
