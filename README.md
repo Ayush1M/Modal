@@ -7,7 +7,6 @@
       * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
- * [Acknowledgment](#acknowledgment)
 
 # Overview of the Project
 The project is based on Modal which is a pop up/dialog box which appears when we click on a button. This project focuses on applying the concepts of HTML, CSS and Javascript.
@@ -26,6 +25,3 @@ The project is based on Modal which is a pop up/dialog box which appears when we
 ## What I Learned
 * Learned about DOM.
 * Learned how to use style display properties in JS to display the pop-up. 
-
-## Acknowledgment
-   My acknowledgements go out to the team at Scrimba. Enrolling in your courses made this project possible.
