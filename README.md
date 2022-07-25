@@ -4,7 +4,6 @@
 
  * [Overview of the Project](#overview-of-the-project)
       * [Goal of the project](#goal-of-the-project)
-      * [Screenshot](#screenshot)
  * [Technologies I Used](#technologies-i-used)
  * [What I Learned](#what-i-learned) 
 
@@ -14,9 +13,6 @@ The project is based on Modal which is a pop up/dialog box which appears when we
 ### Goal of the Project
 * The Goal of this project to create a pop up when we click on a button to display the data.
 
-## Screenshot
-
-
 ## Technologies I Used
 * Semantic HTML5
 * CSS
@@ -24,4 +20,4 @@ The project is based on Modal which is a pop up/dialog box which appears when we
 
 ## What I Learned
 * Learned about DOM.
-* Learned how to use style display properties in JS to display the pop-up. 
+* Learned how to use style display properties in JS to display the pop-up.
