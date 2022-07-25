@@ -1,31 +1,27 @@
-# title(){return this.options.title||this.options.name}
+# Modal
 
-Quick start:
+## Table of Content
 
-```
-$ yarn # npm install
-$ yarn build # npm run build
-````
+ * [Overview of the Project](#overview-of-the-project)
+      * [Goal of the project](#goal-of-the-project)
+      * [Screenshot](#screenshot)
+ * [Technologies I Used](#technologies-i-used)
+ * [What I Learned](#what-i-learned) 
 
-## Development
+# Overview of the Project
+The project is based on Modal which is a pop up/dialog box which appears when we click on a button. This project focuses on applying the concepts of HTML, CSS and Javascript.
 
-Run Webpack in watch-mode to continually compile the JavaScript as you work:
+### Goal of the Project
+* The Goal of this project to create a pop up when we click on a button to display the data.
 
-```
-$ yarn watch # npm run watch
-```
+## Screenshot
 
-## Supporting Scrimba
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
+## Technologies I Used
+* Semantic HTML5
+* CSS
+* Javascript
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
-
-Happy Coding!
+## What I Learned
+* Learned about DOM.
+* Learned how to use style display properties in JS to display the pop-up. 
